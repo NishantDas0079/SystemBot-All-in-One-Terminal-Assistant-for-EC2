@@ -31,9 +31,9 @@
 1. **Connect to your EC2 instance** via SSH.
 
 2. **Update system packages** (optional but recommended):
-   ```bash
-   sudo apt update && sudo apt upgrade -y
-   ```
+```bash
+sudo apt update && sudo apt upgrade -y
+```
 3. Install Python and pip (if not already present):
 ```bash
 sudo apt install python3 python3-pip python3-venv -y
